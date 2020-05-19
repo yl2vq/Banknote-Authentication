@@ -1,4 +1,4 @@
-# Banknote Authentication Project 
+# Banknote Authentication Project #
 
 ## Data 
 The dataset was acquired from [UCI machine learning reposotiory](https://archive.ics.uci.edu/ml/datasets/banknote+authentication).
